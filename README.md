@@ -11,4 +11,5 @@
 # chomd +x ngrok
 # ./ngrok
 # open hostport or mobile data
-# 
+# cd fakefb
+# sh fakefb.sh
